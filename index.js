@@ -26,6 +26,7 @@ function iLoveTheBeatles(n)
   do
   {
     newarray.push(`I love the Beatles!`);
+    n++;
   }
   while ();
 }
